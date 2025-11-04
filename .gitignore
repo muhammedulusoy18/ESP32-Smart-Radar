@@ -1,0 +1,18 @@
+# Arduino/ESP32 derleme çıktıları
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+*.build/
+*.preproc/
+build.*.tmp/
+
+# C/C++ editörlerinin oluşturduğu dosyalar
+*.i
+*.s
+*.map
+*.bak
+*.orig
+*.d
+.DS_Store
